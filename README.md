@@ -1,4 +1,7 @@
 # Loader Animation
+![17289708804024280333315527504695](https://github.com/user-attachments/assets/fb99f3f1-3b8f-4e4a-bc05-b0ac687f2738)
+
+
 
 A simple loader animation built using HTML and CSS, featuring rotating circles that scale in size as they move.
 
