@@ -22,17 +22,3 @@ A simple loader animation built using HTML and CSS, featuring rotating circles t
 ```bash
 git clone https://github.com/skmaurya05550/loader-animation.git
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
